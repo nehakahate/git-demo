@@ -1,6 +1,6 @@
 #here again
 def add(x,y): 
-	return x+y
+	return x+y #add fuction
 #Multiply 
 def multiply(x,y): 
 	return x*y  
