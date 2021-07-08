@@ -3,10 +3,10 @@ def add(x,y):
 	return x+y
 #Multiply 
 def multiply(x,y): 
-	return x*y  #Bug456 change
+	return x*y  
 #divide 
 def divide(x,y): 
-	reurn x/y #master 
+	reurn x/y  
 #minus
 def subtract(x,y): 
-	return x-y #master change
+	return x-y 
